@@ -1,14 +1,14 @@
 {
     "name": "2-bootstrap",
     "version": "1.0.0",
-    "description": "This is a website for the fictional campsites review site NuCamp.",
+    "description": "This is a website for rhythmEats.",
     "main": "rhythmEats.html",
     "scripts": {
         "lite": "lite-server",
         "start": "npm run lite",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Jarrett Roster",
+    "author": "Jarrett Roster, Ayana Adaya",
     "license": "ISC",
     "devDependencies": {
         "lite-server": "^2.6.1"
